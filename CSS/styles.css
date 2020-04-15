@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  text-align: center;
+font-family: 'Joti One', cursive;
+background-color: #639a67;
+}
+
+.pismo{
+  color: #0c7b93;
+}
+h1{
+  margin-top: 0;
+}
+
+.div1{
+  background-color: #baf1a1;
+padding: 40px;
+
+}
+.PA{
+  margin-top: 20px;
+  width: 270px;
+  height: 270px;
+}
+.div2{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+
+}
+.div3{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+
+}
+
+.mezera{
+  background-color: #baf1a1;
+  height: 200px;
+}
+.nadpis{
+  background-color: #baf1a1;
+  padding: 20px;
+}
+.SF{
+  height: 300px;
+  width: 700px;
+}
+.one{
+  position: relative;
+  height: 100px;
+  width: 200px;
+}
+
+.one{
+  position: absolute;
+}
+.two{
+  position: absolute;
+  height: 135px;
+  width: 150px;
+}
